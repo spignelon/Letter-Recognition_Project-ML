@@ -7,6 +7,7 @@ This repository contains the code, report, and related resources for the Letter 
 - [Dataset](#dataset)
 - [Code](#code)
 - [Report](#report)
+- [Blog Post](#blog-post)
 - [Installation](#installationrunning)
 - [License](#license)
 
@@ -27,6 +28,10 @@ Additionally, you can find the exported Python code from the Jupyter Notebook in
 ## Report
 
 The research report for the Letter Recognition Project is available in the [LetterRecognition_Research_Report.pdf](https://github.com/spignelon/Letter-Recognition_Project-ML/blob/main/LetterRecognition_Research_Report.pdf) file. The report provides a detailed analysis of the project, including the problem statement, methodology, experimental results, and conclusions. It also discusses future directions for potential enhancements and improvements.
+
+## Blog Post
+
+For a detailed explanation of the project, you can refer to the blog post titled "Letter Recognition: Machine Learning for Classifying Capital Letters" available [here](https://paper.wf/spignelon/letter-recognition-machine-learning-for-classifying-capital-letters).
 
 ## Installation/Running
 
