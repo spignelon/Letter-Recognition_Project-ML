@@ -8,6 +8,7 @@ This repository contains the code, report, and related resources for the Letter 
 - [Code](#code)
 - [Report](#report)
 - [Blog Post](#blog-post)
+- [Google Colab](#google-colab)
 - [Installation](#installationrunning)
 - [License](#license)
 
@@ -32,6 +33,10 @@ The research report for the Letter Recognition Project is available in the [Lett
 ## Blog Post
 
 For a detailed explanation of the project, you can refer to the blog post titled "Letter Recognition: Machine Learning for Classifying Capital Letters" available [here](https://paper.wf/spignelon/letter-recognition-machine-learning-for-classifying-capital-letters).
+
+## Google Colab
+
+To directly run and experiment with the project in an interactive environment, you can access the Google Colab notebook [here](https://colab.research.google.com/drive/1Q5wslzpK6YVoUwgkRtORaxXFScUUOJNw).
 
 ## Installation/Running
 
