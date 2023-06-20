@@ -53,4 +53,4 @@ To run the code locally, follow these steps:
 
 ## License
 
-This project is licensed under the terms of the MIT License. You can find the full license text [here](https://github.com/spignelon/Letter-Recognition_Project-ML/blob/main/LICENSE).
+This project is licensed under the terms of the [MIT License](https://github.com/spignelon/Letter-Recognition_Project-ML/blob/main/LICENSE).
