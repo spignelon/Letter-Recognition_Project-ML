@@ -1,6 +1,6 @@
 # Letter Recognition Project
 
-This repository contains the code, report, and related resources for the Letter Recognition Project, which focuses on classifying letters based on their features. The project implements machine learning algorithms such as Support Vector Machines (SVM), k-Nearest Neighbors (KNN), and Decision Trees.
+This repository contains the code, report, and related resources for the Letter Recognition Project, which focuses on classifying letters based on their features. The project implements machine learning algorithms such as Support Vector Machines (SVM), k-Nearest Neighbors (KNN), Decision Trees, Random Forest, and Naive Bayes.
 
 ## Table of Contents
 - [Project Description](#project-description)
@@ -14,7 +14,7 @@ This repository contains the code, report, and related resources for the Letter 
 
 ## Project Description
 
-The Letter Recognition Project aims to develop a machine learning model that can accurately classify letters based on their visual features. The project utilizes various classification algorithms, including SVM, KNN, and Decision Trees, to achieve high accuracy in letter classification. It includes data preprocessing steps, model training, evaluation, and visualization of results.
+The Letter Recognition Project aims to develop a machine learning model that can accurately classify letters based on their visual features. The project utilizes various classification algorithms, including SVM, KNN, Decision Trees, Random Forest, and Naive Bayes, to achieve high accuracy in letter classification. It includes data preprocessing steps, model training, evaluation, and visualization of results.
 
 ## Dataset
 
